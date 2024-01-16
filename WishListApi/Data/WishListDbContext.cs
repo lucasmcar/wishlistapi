@@ -7,6 +7,11 @@ namespace WishListApi.Data
 {
     public class WishListDbContext : DbContext
     {
+
+        public WishListDbContext()
+        {
+            
+        }
         public WishListDbContext(DbContextOptions<WishListDbContext> options)
             :base(options) {}
 

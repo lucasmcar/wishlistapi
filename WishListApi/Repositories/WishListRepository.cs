@@ -1,4 +1,5 @@
-﻿using System.Data.Entity;
+﻿
+using Microsoft.EntityFrameworkCore;
 using WishListApi.Data;
 using WishListApi.Models;
 using WishListApi.Repositories.Interfaces;
@@ -26,7 +27,7 @@ namespace WishListApi.Repositories
 
         public async Task<bool> DeleteWish(int id)
         {
-            WishList wishL = await getItemById(id);
+            WishList wishL = await GetItemById(id);
 
             if (wishL == null)
             {
@@ -39,19 +40,21 @@ namespace WishListApi.Repositories
             return true;
         }
 
-        public async Task<WishList> getItemById(int id)
+        public async Task<WishList> GetItemById(int id)
         {
             return await _dbContext.WishLists.FirstOrDefaultAsync(x => x.Id == id);
+            
         }
 
-        public async Task<List<WishList>> getListItems()
+        public async Task<List<WishList>> GetListItems()
         {
             return await _dbContext.WishLists.ToListAsync();
+            
         }
 
         public async Task<WishList> UpdateWishList(WishList wish, int id)
         {
-            WishList wishL = await getItemById(id);
+            WishList wishL = await GetItemById(id);
 
             if(wishL == null)
             {
@@ -65,8 +68,11 @@ namespace WishListApi.Repositories
             await _dbContext.SaveChangesAsync();
 
             return wishL;
+        }
 
-            
+        public Task<WishList> UpdateWishList(WishList wish)
+        {
+            throw new NotImplementedException();
         }
     }
 }

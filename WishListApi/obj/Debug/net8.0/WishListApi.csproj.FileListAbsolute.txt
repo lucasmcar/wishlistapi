@@ -5,10 +5,19 @@ C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\WishListApi.runtimeconfig.json
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\WishListApi.dll
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\WishListApi.pdb
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\WishListApi.csproj.AssemblyReference.cache
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\WishListApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\WishListApi.AssemblyInfoInputs.cache
@@ -16,6 +25,7 @@ C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\WishListApi.csproj.CoreCompileInputs.cache
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\WishListApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\WishListApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\WishListApi.sourcelink.json
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\staticwebassets\msbuild.WishListApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -30,3 +40,4 @@ C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\WishListApi.pdb
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\WishListApi.genruntimeconfig.cache
 C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\obj\Debug\net8.0\ref\WishListApi.dll
+C:\Users\Code.DESKTOP-I16IA9O\source\repos\WishListApi\WishListApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

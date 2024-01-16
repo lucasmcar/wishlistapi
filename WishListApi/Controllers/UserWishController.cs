@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using WishListApi.Models;
+using WishListApi.Repositories;
 
 namespace WishListApi.Controllers
 {
@@ -8,10 +9,18 @@ namespace WishListApi.Controllers
     [ApiController]
     public class UserWishController : ControllerBase
     {
-        [HttpPost]
-        public ActionResult<List<UserWish>> getAllItems()
+
+        private readonly UserWishRepository _userWishRepository;
+
+        public UserWishController(UserWishRepository userWishRepository)
         {
-            return Ok();
+            _userWishRepository = userWishRepository;
+        }
+        [HttpGet]
+        public async Task<ActionResult<List<UserWish>>> GetAllUsers()
+        {
+            List<UserWish> userWishes = await _userWishRepository.GetAllUser();
+            return Ok(userWishes);
         }
         
     }

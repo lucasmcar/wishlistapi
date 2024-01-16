@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WishListApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+340d207a03917da479955e0018256099fbe2c36b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WishListApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WishListApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
